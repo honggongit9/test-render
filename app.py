@@ -9,5 +9,4 @@ def hello_world():
 
 @app.route("/alank")
 def hello_alank():
-    return """<h2>alank</h2>
-]"""
+    return """<h2>alank</h2>"""
